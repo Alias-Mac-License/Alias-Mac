@@ -22,7 +22,7 @@
 ---  
 
 <div align="center">  
-  <img src="https://damassets.autodesk.net/content/dam/autodesk/www/products/alias-products/overview/alias-social.jpg" width="1080" alt="Alias Screenshot"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/AliasScreenshot.png" width="1080" alt="Alias Screenshot"/>  
 </div>  
 
 <br>  
